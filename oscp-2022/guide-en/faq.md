@@ -2,7 +2,7 @@
 
 I compiled questions that were asked the most about this guide through socials (reddit, twitter, linkedin). Let me know if you want me to answer specific questions or add some topics to this guide.
 
-### I have one month access to the PEN-200 platform, what should I focus on&#x20;
+### I have one month access to the PEN-200 platform, what should I focus on ?
 
 On limited time I recommend spending all you time on labs and walkthroughs. Ignore the course/exercises section.
 
