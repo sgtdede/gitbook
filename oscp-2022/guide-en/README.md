@@ -295,7 +295,7 @@ Prepare meals, drinks, coffees, etc. in advance, to gain time and release some p
 
 Breath and relax, dont change your habbits and use your classic methods. Like you would if you were running labs on PEN-200.
 
-It's not too bad too spend a lot of time on a machine, you need 70 points. Even if you unlock the first machines very late, the exam is still playable.
+It's not too bad to spend a lot of time on a machine, you need 70 points. Even if you unlock the first machines very late, the exam is still playable.
 
 If you fail at the exam, it's not the end of the world, you'll come back stronger next time.
 
