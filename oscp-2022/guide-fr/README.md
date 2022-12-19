@@ -12,11 +12,7 @@ Il ne s'agit pas de suivre ce guide à la lettre, prenez ce qui vous plait et ou
 
 ## Auteur:
 
-* [Twitter](https://twitter.com/sgtdede)
-* [Github](https://github.com/sgtdede)
-* [Linkedin](https://www.linkedin.com/in/andr%C3%A9-lenoir-9487a2152/)
-
-7 ans d'expérience professionnelle dans la cybersécurité en offensif et défensif. Dont un nombre conséquent de pentests webs et pentests internes.&#x20;
+Ingénieur en informatique (réseaux et systèmes). J'ai 7 ans d'expérience professionnelle dans la cybersécurité en offensif et défensif. Dont un nombre conséquent de pentests webs et pentests internes.&#x20;
 
 Très peu de background en CTF et plateformes CTF (TryHackMe, HackTheLab, root-me, etc.)
 
@@ -331,7 +327,7 @@ Personnellement j'utilise terminator car c'est celui que je connais déjà le mi
 
 {% embed url="https://www.youtube.com/watch?v=Lqehvpe_djs&ab_channel=IppSec" %}
 
-## Mon parcours OSCP:&#x20;
+## Mon parcours OSCP
 
 [mon parcours](mon-parcours.md)
 
