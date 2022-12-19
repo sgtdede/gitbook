@@ -11,4 +11,5 @@
     * [My OSCP journey](oscp-2022/guide-en/my-oscp-journey.md)
     * [Review of PEN-200 material (TODO)](oscp-2022/guide-en/review-of-pen-200-material-todo.md)
     * [What to do after PEN-200 (TODO)](oscp-2022/guide-en/what-to-do-after-pen-200-todo.md)
+    * [FAQ](oscp-2022/guide-en/faq.md)
 * [🐟 Whoami](whoami.md)
