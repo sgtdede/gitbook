@@ -12,13 +12,9 @@ Pick what you like, throw what you don't.
 
 ## Whoami & Cybersec background:
 
-* [Twitter](https://twitter.com/sgtdede)
-* [Github](https://github.com/sgtdede)
-* [Linkedin](https://www.linkedin.com/in/andr%C3%A9-lenoir-9487a2152/)
+French engineer in computer science (network and OS). I have 7 years of professional experience in cybersec on both defensive and offensive tasks, including a significant number of pentests (web, externals and internals).
 
-I'm a french engineer in computer science (network and cybersecurity). I have 7 years of professional experience in cybersec on both defensive and offensive tasks, including a significant number of pentests (web, externals and internals).
-
-I do have very limited background in CTFs and CTFs platforms (TryHackMe, HackTheLab, root-me, etc.)
+Very limited background in CTFs and CTFs platforms (TryHackMe, HackTheLab, root-me, etc.)
 
 ## TLDR:&#x20;
 
