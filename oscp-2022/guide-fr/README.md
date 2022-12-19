@@ -1,8 +1,5 @@
 ---
 description: Préparation OSCP 2022
-cover: >-
-  https://parissecret.com/wp-content/uploads/2022/10/3715098.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg
-coverY: 23.494860499265783
 ---
 
 # 🇫🇷 Guide (FR)
